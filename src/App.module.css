@@ -17,6 +17,6 @@
         grid-template-columns: repeat(2, 1fr);
         align-items: center;
         gap: 4rem;
-        margin-top: 5rem;
+        margin-top: 4rem;
     }
 }
